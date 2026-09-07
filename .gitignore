@@ -1,0 +1,20 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+packages/
+
+# Visual Studio per-user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/index files
+*.vsidx
+*.cache
+
+# Logs and OS junk
+*.log
+Thumbs.db
+Desktop.ini
